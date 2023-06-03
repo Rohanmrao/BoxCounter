@@ -5,3 +5,7 @@ It plays a crucial role in applications such as object tracking, activity recogn
 
 The goal of background subtraction is to identify the pixels or regions that belong to the stationary background, which can be later classified as the foreground objects. 
 It relies on the assumption that the background is relatively static while the foreground objects are dynamic and exhibit motion.
+
+Key Libraries - 
+
+1. pyFirmata - https://pypi.org/project/pyFirmata/
