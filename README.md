@@ -9,3 +9,6 @@ It relies on the assumption that the background is relatively static while the f
 Key Libraries - 
 
 1. pyFirmata - https://pypi.org/project/pyFirmata/
+
+
+IOT Analytics - https://thingspeak.com/
