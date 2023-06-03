@@ -9,6 +9,7 @@ It relies on the assumption that the background is relatively static while the f
 Key Libraries - 
 
 1. pyFirmata - https://pypi.org/project/pyFirmata/
+2. openCV - https://docs.opencv.org/ (docs)
 
 
 IOT Analytics - https://thingspeak.com/
